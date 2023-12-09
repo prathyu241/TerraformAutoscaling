@@ -3,7 +3,7 @@ This project demonstrates how to perform a load test using Postman and set up au
 
 # Objective
 
-The primary objective of this project is to create a robust and scalable architecture for a web application that can handle traffic fluctuations and ensure high availability. It uses a combination of AWS services to achieve this goal.
+The primary objective of this project is to create a robust and scalable architecture for a web application which can handle traffic fluctuations and ensure high availability. It uses a combination of AWS services to achieve this goal.
 
 # AWS Services Used
 -VPC
